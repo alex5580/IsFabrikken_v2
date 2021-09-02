@@ -1,0 +1,17 @@
+
+
+
+/* if the viewport is equal to 340 px or less than that*/
+@media only screen and (max-width: 340px){
+    .header_area .main-menu .navbar,
+    .header_area .main-menu .navbar .navbar-brand,
+    .site-main .services-area{
+        padding: 2%;
+        margin: 0;
+    }
+
+    .site-main .site-banner .site-title h1{
+        font-size: 41px;
+    }
+    
+}
